@@ -1,1 +1,8 @@
+# Ignore the FUSE mount directory
 mnt/
+
+# Ignore compiled files
+*.o
+*.out
+*.exe
+myfs
