@@ -1,6 +1,3 @@
-Sure! Here’s the same **README.md** content in a code block for easy copy-pasting:
-
-````markdown
 # FUSE Filesystem Project
 
 ## Overview
