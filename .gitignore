@@ -1,8 +1,18 @@
-# Ignore the FUSE mount directory
-mnt/
+# Ignore FUSE mount points
+/tmp/fusemnt
+/mnt/*
 
-# Ignore compiled files
+# Ignore compiled binaries
+myfs
 *.o
 *.out
 *.exe
-myfs
+
+# Ignore editor temporary files
+*.swp
+*.swo
+*.tmp
+*~
+
+# Ignore build directories (if any)
+build/
